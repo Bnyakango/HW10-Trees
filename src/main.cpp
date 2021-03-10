@@ -2,8 +2,8 @@
  * @file main.cpp
  * @brief This is a demonstration of simple binary trees
  * @details This is a demo from CPTR 227 class
- * @author Seth McNeill
- * @date 2021 February 24
+ * @author Benson Nyakango
+ * @date 2021 March 10
  * 
  */
 
